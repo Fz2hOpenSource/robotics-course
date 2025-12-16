@@ -62,10 +62,10 @@ extra:
       link: https://github.com/yourname
   alternate:
     - name: 简体中文
-      link: /robotics-course/zh/
+      link: ./zh/
       lang: zh
     - name: English
-      link: /robotics-course/
+      link: ./
       lang: en
 
 
