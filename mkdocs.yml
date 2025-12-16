@@ -5,7 +5,7 @@ repo_name: Fz2hOpenSource/robotics-course
 
 theme:
   name: material
-  language: en
+  language: zh # 简体中文 # en # English
   palette:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
@@ -62,10 +62,10 @@ extra:
       link: https://github.com/yourname
   alternate:
     - name: 简体中文
-      link: /zh/
+      link: /robotics-course/zh/
       lang: zh
     - name: English
-      link: /
+      link: /robotics-course/
       lang: en
 
 
