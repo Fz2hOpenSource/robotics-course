@@ -17,4 +17,6 @@ GPT 或者 vibe-coding 虽然可以进行知识问答和生成代码，但是不
 - **路径规划**：探索自主导航算法。
 - **更多**
 
+[开始学习ROS](ros/index.md){ .md-button .md-button--primary }
+
 更多内容会更新在bilibili频道[Fz2h](https://space.bilibili.com/671663023){ .md-button }
