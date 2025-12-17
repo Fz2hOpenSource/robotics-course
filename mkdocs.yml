@@ -57,6 +57,9 @@ plugins:
 
 # Extra configuration (Language Switcher)
 extra:
+  analytics:
+    provider: google
+    property: G-L8NRTF0T7G
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/yourname

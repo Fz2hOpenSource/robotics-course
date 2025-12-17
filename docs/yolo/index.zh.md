@@ -1,13 +1,12 @@
 # YOLO 目标检测
 
 You Only Look Once (YOLO) 是一种最先进的实时目标检测系统。
+[官网](https://docs.ultralytics.com/){ .md-button }
 
 ## 版本
 
-- YOLOv3
-- YOLOv4
-- YOLOv5
-- YOLOv8 (最新)
+
+- YOLOv12
 
 ## 训练自定义数据
 

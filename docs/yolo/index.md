@@ -7,7 +7,9 @@ You Only Look Once (YOLO) is a state-of-the-art, real-time object detection syst
 - YOLOv3
 - YOLOv4
 - YOLOv5
-- YOLOv8 (Latest)
+- YOLOv12
+- SAM()
+
 
 ## Training Custom Data
 
