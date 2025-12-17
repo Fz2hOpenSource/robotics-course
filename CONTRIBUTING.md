@@ -9,9 +9,11 @@
 
 1.  **Python 环境**：确保已安装 Python 3.x。
 2.  **安装 MkDocs 及插件**：
-    ```bash
-    pip install -r requirements.txt
-    ```
+```bash
+pip install -r requirements.txt
+```
+
+
 
 ### 本地预览
 在修改文档前，建议先启动本地服务器进行预览：
@@ -27,7 +29,7 @@ mkdocs serve
 ### 目录结构
 *   `docs/`：存放所有 Markdown 文档源码。
 *   `docs/image/`：存放所有图片资源。
-*   `mkdocs.yml`：网站全局配置文件。
+*   `mkdocs.yml`：网站全局配置文件。（无需修改）
 
 ### 多语言支持
 本项目支持中英文双语，文件命名需遵循以下规则：
@@ -36,9 +38,17 @@ mkdocs serve
 
 ### 图片插入
 我们配置了 VS Code 自动保存图片功能。
-1.  **推荐工具**：使用 VS Code 编辑。
-2.  **操作方式**：直接截图并粘贴 (`Ctrl+V`) 到 Markdown 文件中。
-3.  **自动处理**：图片会自动保存到当前文档所在目录下的 `image/` 文件夹中，并自动生成 Markdown 引用代码。
+1.  你要先把图片放到 `docs/image/` 目录下对应同名项目的文件夹下。
+2.  然后在 Markdown 文件中插入图片时，直接使用相对路径引用即可。例如：
+```markdown
+![](image/ros/hello.png)
+```
+
+### 文档协作SOP
+1. 目前可以修改 docs/index.md 和 docs/index.zh.md，在上面介绍你的项目以及构建按钮跳转到 docs 中相应的文档里。
+2. 每一个项目都应该在 docs 中设置一个文件夹，并且在文件夹中构建你的 markdown 文档。
+3. 一般默认情况下，只做增量更新，在告知且同意的情况下才能修改别人的文档。（除了共用的index.md和index.zh.md）
+
 
 ### Markdown 扩展
 本项目启用了一些高级 Markdown 语法，你可以使用：
