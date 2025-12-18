@@ -21,6 +21,9 @@ GPT 或者 vibe-coding 虽然可以进行知识问答和生成代码，但是不
 
 [开始学习ROS](ros/index.md){ .md-button .md-button--primary }
 
+[Linux快速入门](Preliminary/Linux.md){ .md-button  }
+
+
 ## 环境配置
 
 

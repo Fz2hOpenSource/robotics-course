@@ -15,7 +15,9 @@ We're currently developing ROS-related content and aim to publish daily updates.
 - **YOLO**: Master real-time object detection.
 - **Path Planning**: Explore algorithms for autonomous navigation.
 
-[Get Started with ROS](ros/index.md){ .md-button .md-button--primary }
+[Get Started with Linux basic](Preliminary/Linux.md){ .md-button  }
+
+[Get Started with ROS](ros/index.md){ .md-button  }
 
 
 

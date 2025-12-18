@@ -14,6 +14,11 @@ You only need to remember two things:
 
 2. Community ROS packages can reduce our development burden.
 
+## Course Outline
+
+1. **Setup Robot Environment** : [TurtleBot3 in Gazebo](setup_robot_env.md){ .md-button }
+
+
 ## Key Concepts
 
 - **Nodes**: Executable files that perform computation.
