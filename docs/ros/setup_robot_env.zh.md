@@ -6,6 +6,21 @@
 
 1. **安装 ROS Noetic**
    如果还没装，请使用[鱼香ROS的一键安装脚本](https://fishros.org.cn/forum/topic/20/%E5%B0%8F%E9%B1%BC%E7%9A%84%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85%E7%B3%BB%E5%88%97)安装 ROS Noetic。  
+   
+   按照推荐选择即可，可以参考如下选择：
+
+   [1]:一键安装(推荐):ROS(支持ROS/ROS2,树莓派Jetson)
+
+   [1]:更换系统源再继续安装
+
+   [1]:自动测速选择最快的源
+
+   [1]:中科大镜像源 (推荐国内用户使用)
+
+   [3]:noetic(ROS1)
+
+   [1]:noetic(ROS1)桌面版
+
    安装 Gazebo（Noetic 默认 Gazebo 11）：
 
    ```bash
