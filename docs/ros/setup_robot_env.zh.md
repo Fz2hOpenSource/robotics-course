@@ -129,7 +129,7 @@ rostopic pub /cmd_vel geometry_msgs/Twist '{linear: {x: 0.2, y: 0.0, z: 0.0}, an
 ```
 
 这会让机器人向前移动并缓慢旋转（只是例子，可以根据自己的代码改写）。  
-你也可以写一个节点发布 `geometry_msgs/Twist` 到 `/cmd_vel`。 citeturn0search2
+你也可以写一个节点发布 `geometry_msgs/Twist` 到 `/cmd_vel`。
 
 ---
 
