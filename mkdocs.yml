@@ -4,42 +4,48 @@ repo_url: https://github.com/Fz2hOpenSource/robotics-course
 repo_name: Fz2hOpenSource/robotics-course
 
 theme:
-  name: material
-  language: zh # 简体中文 # en # English
-  palette:
-    # Palette toggle for light mode
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: indigo
-      accent: deep purple
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
+  name: material  # 使用 Material 主题
+  language: en  # 设置界面语言为简体中文
+  
+  palette:  # 调色板配置
+    # 浅色模式配置
+    - media: "(prefers-color-scheme: light)"  # 检测系统浅色模式偏好
+      scheme: default  # 使用默认浅色方案
+      primary:  cyan        # 主色调：琥珀色（用于顶栏、链接等）
+      accent: indigo   # 强调色：蓝色（用于悬停、高亮等）
+      toggle:  # 主题切换按钮
+        icon: material/weather-sunny  # 显示太阳图标
+        name: Switch to dark mode  # 鼠标悬停提示文字
 
-    # Palette toggle for dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: indigo
-      accent: deep purple
-      toggle:
-        icon: material/weather-night
-        name: Switch to light mode
-  features:
-    - navigation.tabs
-    - navigation.sections
-    - navigation.expand
-    - navigation.top
-    - navigation.tracking
-    - search.suggest
-    - search.highlight
-    - content.code.copy
-  font:
-    text: Roboto
-    code: Roboto Mono
-  # Logo and favicon
+    # 深色模式配置
+    - media: "(prefers-color-scheme: dark)"  # 检测系统深色模式偏好
+      scheme: slate  # 使用 slate 深色方案
+      primary: deep purple   # 主色调：琥珀色
+      accent: cyan    # 强调色：蓝色
+      toggle:  # 主题切换按钮
+        icon: material/weather-night  # 显示月亮图标
+        name: Switch to light mode  # 鼠标悬停提示文字
+  
+  features:  # 功能特性配置
+    - navigation.tabs  # 启用顶部导航标签页
+    - navigation.sections  # 启用侧边栏分组
+    - navigation.expand  # 默认展开所有导航项
+    - navigation.top  # 显示"返回顶部"按钮
+    - navigation.tracking  # 地址栏自动更新当前标题的锚点
+    - search.suggest  # 搜索建议
+    - search.highlight  # 搜索结果高亮
+    - content.code.copy  # 代码块添加复制按钮
+  
+  font:  # 字体配置
+    text: Roboto  # 正文字体
+    code: Roboto Mono  # 代码字体（等宽）
+  
+  # Logo 和图标配置
+  logo: image/LOGO.jpg  # 网站 Logo 路径
+  favicon: image/LOGO.jpg  # 浏览器标签页图标
   icon:
-    logo: material/robot
-    repo: fontawesome/brands/github
+    repo: fontawesome/brands/github  # 仓库图标（显示 GitHub 图标）
+
 
 # Plugins
 plugins:
@@ -50,10 +56,11 @@ plugins:
         - locale: en
           default: true
           name: English
-          build: true
+          build: true        
         - locale: zh
           name: 简体中文
           build: true
+
 
 # Extra configuration (Language Switcher)
 extra:
@@ -117,10 +124,12 @@ nav:
   - Home: index.md
   - Preliminary:
       - Linux: Preliminary/Linux.md
+      - Environment: Preliminary/Environment_setup.md
   - ROS:
       - Introduction: ros/index.md
       - Installation: ros/installation.md
-      - Topics & Nodes: ros/topics.md
+      - Usage: ros/ros_communication_demo.md
+      - Setup Robot Environment: ros/setup_robot_env.md
   - YOLO:
       - Overview: yolo/index.md
       - Training: yolo/training.md
