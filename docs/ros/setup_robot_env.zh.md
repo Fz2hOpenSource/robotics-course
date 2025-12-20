@@ -1,6 +1,4 @@
-下面是**如何在 ROS Noetic + Gazebo 下打开你给的 `ROBOTIS-GIT/turtlebot3_simulations` 仿真内容并控制 TurtleBot3 机器人的步骤**（基于 ROS1 Noetic 传统流程）：
-
----
+# 安装并准备 ROS Noetic + Gazebo / 创建 ROS 工作空间
 
 ## 🧱 1. 安装并准备 ROS Noetic + Gazebo / 创建 ROS 工作空间
 
@@ -78,7 +76,7 @@
 roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
 ```
 
-这会启动 Gazebo 并载入一个空世界和 TurtleBot3 机器人模型。 citeturn0search0
+这会启动 Gazebo 并载入一个空世界和 TurtleBot3 机器人模型。
 
 ---
 
@@ -141,17 +139,17 @@ rostopic pub /cmd_vel geometry_msgs/Twist '{linear: {x: 0.2, y: 0.0, z: 0.0}, an
 roslaunch turtlebot3_gazebo turtlebot3_simulation.launch
 ```
 
-这个会启动模拟环境和避障、导航等节点（看你安装了哪些包）。 citeturn0search5
+这个会启动模拟环境和避障、导航等节点（看你安装了哪些包）。
 
 ---
 
 ## 🛠️ 常见问题 & 注意事项
 
 ✔ **找不到 launch 文件**  
-确保工作空间正确编译、source 已加载，否则 Gazebo launch 会报找不到包的错误。 citeturn0search3
+确保工作空间正确编译、source 已加载，否则 Gazebo launch 会报找不到包的错误。 
 
 ✔ **ROS 环境没有加载**  
-每个新的终端必须 `source ~/catkin_ws/devel/setup.bash` 才能使用 turtlebot3 的命令。 citeturn0search3
+每个新的终端必须 `source ~/catkin_ws/devel/setup.bash` 才能使用 turtlebot3 的命令。 
 
 ✔ **Gazebo 显示空白**  
 可能是 Gazebo 与 ROS 库版本不匹配，确认 ROS Noetic 与 Gazebo 11 对应安装。 （一般通过 apt 安装可以保证兼容性）
@@ -182,6 +180,14 @@ roslaunch turtlebot3_gazebo turtlebot3_simulation.launch
     source ~/.bashrc
     ```
   - `source` 命令会读取并执行指定文件的内容，这样你就不需要重新启动终端窗口，便可以在当前会话中应用文件中的新设置。
+
+  在windows系统的ubuntu终端(terminal)中，它并不source ~/.bashrc。所以用它来执行一些脚本可能会显示有一些错误，例如: `substitution args not supported:  No module named 'defusedxml'`。
+
+  所以在使用这个终端执行ros相应指令的时候，你需要先source ~/.bashrc。
+  操作如图：
+  
+![wsl_windows_terminal.png](../image/ros/wsl_windows_terminal.png)
+
 
 ### 2. **ROS 文件结构 (`/opt/ros/`)**
 

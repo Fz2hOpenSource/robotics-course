@@ -121,16 +121,17 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Preliminary:
+      - Python Environment: Preliminary/Environment_setup.md  
       - Linux: Preliminary/Linux.md
-      - Environment: Preliminary/Environment_setup.md
   - ROS:
       - Introduction: ros/index.md
-      - Installation: ros/installation.md
-      - Usage: ros/ros_communication_demo.md
       - Setup Robot Environment: ros/setup_robot_env.md
-  - YOLO:
-      - Overview: yolo/index.md
-      - Training: yolo/training.md
-  - Path Planning:
-      - Basics: planning/index.md
-      - Algorithms: planning/algorithms.md
+      - ROS Communication: ros/ros_communication_demo.md
+      - ROS Perception module: ros/perception_node.md
+  - Perception:
+      - Overview: perception/index.md
+      - YOLO: perception/yolo.md
+      - Training: perception/training.md
+  # - Path Planning:
+  #     - Basics: planning/index.md
+  #     - Algorithms: planning/algorithms.md

@@ -251,6 +251,3 @@ rosrun ros_communication_demo add_two_ints_client.py
 
 本实验手册展示了如何在 ROS 中进行基本的 Topic 发布/订阅和服务创建。你可以根据需求修改消息类型和通信方式，进一步扩展实验内容。
 
----
-
-希望这份手册能帮助你理解 ROS 的基本通讯原理和实践！

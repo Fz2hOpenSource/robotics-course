@@ -47,3 +47,4 @@ nvidia-smi
 conda activate fz2h_course
 pip install torch torchvision --index-url https://download.pytorch.org/whl/cu118
 ```
+

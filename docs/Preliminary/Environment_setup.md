@@ -3,7 +3,7 @@
 ### create env
 
 1. install  [anaconda](https://www.anaconda.com/download/success) or [miniconda](https://docs.conda.io/en/latest/miniconda.html)
-   ![anaconda](image/index/anaconda.png)
+   ![anaconda](../image/Preliminary/anaconda.png)
 2. install python common packages
 
 ```bash
@@ -42,7 +42,7 @@ nvidia-smi
 
 Select the correct pytorch version:
 
-![pytorch](image/index/pytorch.png)
+![pytorch](../image/Preliminary/pytorch.png)
 
 ```bash
 conda activate fz2h_course
