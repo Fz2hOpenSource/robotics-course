@@ -34,22 +34,22 @@ flowchart TB
   %% =========================
 
   A([Start]) --> P0
-  P0[Preliminary / Basic Preparation] --> P1[Environment Setup]
+  P0[Preliminary] --> P1[Environment Setup]
   P0 --> P2[Linux Basics]
 
-  %% ---------- Parallel Area: ROS and Perception two columns ----------
-  P2 --> PAR{{Enter Parallel Learning Phase}}
+  %% ---------- Parallel stage: ROS and Perception ----------
+  P2 --> PAR{{Enter Parallel Learning Stage}}
   PAR --> ROS0
   PAR --> PER0
 
-  subgraph COLS[Core Modules (Parallel)]
+  subgraph COLS[Core Modules / Parallel]
     direction LR
 
     %% ===== Left Column: ROS =====
     subgraph ROS[ROS Module]
       direction TB
-      ROS0[ROS / Index] --> ROS1[Installation]
-      ROS1 --> ROS2[Setup Robot Env]
+      ROS0[ROS Index] --> ROS1[Installation]
+      ROS1 --> ROS2[Robot Environment Setup]
       ROS2 --> ROS3[ROS Communication Demo]
       ROS3 --> ROSP[ROS Perception Node]
       ROSP --> ROSX[ROS: More Practices]
@@ -58,26 +58,26 @@ flowchart TB
     %% ===== Right Column: Perception =====
     subgraph PER[Perception Module]
       direction TB
-      PER0[Perception / Index] --> PER1[YOLO<br/>Object Detection]
-      PER1 --> PER2[Training<br/>Training Process]
-      PER2 --> PER_END[[Perception Module Complete]]
+      PER0[Perception Index] --> PER1[YOLO Object Detection]
+      PER1 --> PER2[Training Pipeline]
+      PER2 --> PER_END[[Perception Module Completed]]
     end
   end
 
-  %% ---------- Cross-column pointer: After Perception completes -> ROS Perception Node ----------
+  %% ---------- Cross-column link: Perception -> ROS Perception ----------
   PER_END -->|Integrate into ROS| ROSP
 
   %% =========================
-  %% Side notes/explanations: Using "comment nodes" placed on the side
+  %% Side notes / Annotations
   %% =========================
-  noteP0["📌 Suggestion: In Preliminary, first set up<br/>Python/Conda/PyTorch"]:::note
+  noteP0["Note: In Preliminary stage, it is recommended to set up<br/>Python / Conda / PyTorch first"]:::note
   P0 -.-> noteP0
 
-  noteCols["🟦 Parallel relationship: ROS and Perception<br/>can be advanced simultaneously; integrate at the end"]:::note
+  noteCols["Parallel workflow: ROS and Perception<br/>can be developed simultaneously, then integrated"]:::note
   PAR -.-> noteCols
 
   %% =========================
-  %% Styles (Optional)
+  %% Styles (optional)
   %% =========================
   classDef note fill:#fff,stroke:#999,stroke-dasharray: 4 3,color:#333;
 ```
