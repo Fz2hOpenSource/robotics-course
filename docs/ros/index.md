@@ -1,4 +1,4 @@
- # ROS Introduction
+# ROS Introduction
 
 ROS is used to build connections between different modules of a robot, similar to the human nervous system.
 It can take images output from a camera module as input to an object recognition module to achieve object recognition.
