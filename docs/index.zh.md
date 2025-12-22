@@ -93,3 +93,27 @@ flowchart TB
 - 2025-12-18：Linux快速入门
 - 2025-12-17：搭建环境：Python
 - 2025-12-16：初始化 ROS 教程
+
+
+
+```mermaid
+graph TB
+  subgraph AgentLoop["每个 agent 的 step() 一次闭环"]
+    A0["从共享 Memory 构造 HTN state<br/>Memory.get_pyhop_state()"] --> A1["取当前 high-level task<br/>task_queue[0]"]
+    A1 --> A2["拼出 full_task<br/>(task_name, agent_id, ...)"]
+    A2 --> A3["pyhop.pyhop(state, [full_task])<br/>产出 plan(actions)"]
+    A3 --> A4{"HTN 方法可用?"}
+    A4 -->|是| A5["按 methods 分解<br/>matp_domain.py 注册的方法"]
+    A4 -->|否| A6["触发 LLM 分解<br/>askChatGPT()"]
+    A6 --> A7["LLM 输出子任务/算子序列<br/>可读写 llm_cache.json"]
+    A7 --> A3
+    A5 --> A3
+    A3 --> A8{"plan 为空?"}
+    A8 -->|是| A9["认为该 task 已完成<br/>task_queue.pop(0)<br/>递归处理下一个 task"]
+    A8 -->|否| A10["只返回第一个原子动作<br/>first_action = plan[0]"]
+    A10 --> B0["Runner 执行 action"]
+    B0 --> B1["Backend 返回 success,new_state"]
+    B1 --> B2["共享 Memory.update(new_state)"]
+    B2 --> A0
+  end
+```

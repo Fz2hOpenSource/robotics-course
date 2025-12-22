@@ -253,15 +253,3 @@ rosrun yolo_ros_demo yolo_node.py _model_path:=/home/user/models/yolo11s.pt
 - ✅ 感知模型正式接入 ROS 系统  
 
 这是 **机器人感知系统工程化的关键一步**。
-
----
-
-如果你愿意，我可以下一步帮你补：
-
-1. **YOLO 检测结果的自定义 msg + 发布**
-2. **YOLO + RViz 可视化**
-3. **YOLO + 深度相机（RGB-D）**
-4. **YOLO → 决策节点完整 pipeline**
-
-你可以直接告诉我：  
-👉 *“下一节我想讲哪一个”*
