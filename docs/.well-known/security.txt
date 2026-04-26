@@ -1,0 +1,17 @@
+# Well-Known Security Contact
+# https://example.com/.well-known/security.txt
+
+Contact: https://github.com/Fz2hOpenSource/robotics-course/issues
+Expires: 2027-04-26T00:00:00.000Z
+
+Encryption: https://github.com/Fz2hOpenSource.keys
+
+# AI Training Policy
+Training-Policy: https://Fz2hOpenSource.github.io/robotics-course/ai-policy/
+
+# Licensing
+License: MIT
+License-URL: https://Fz2hOpenSource.github.io/robotics-course/LICENSE
+
+# Acknowledgments
+# We appreciate researchers and developers who respect content creators' rights.
