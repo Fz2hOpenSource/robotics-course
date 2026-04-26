@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/SECURITY/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/SECURITY/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/SECURITY/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/ai-policy/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/ai-policy/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/ai-policy/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/privacy/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/privacy/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/privacy/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/Preliminary/Environment_setup/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/Preliminary/Environment_setup/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/Preliminary/Environment_setup/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/Preliminary/Linux/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/Preliminary/Linux/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/Preliminary/Linux/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/Project/hajimi/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/Project/hajimi/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/Project/hajimi/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/deployment/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/deployment/architecture/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/deployment/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/architecture/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/deployment/hardware_integration/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/deployment/hardware_integration/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/hardware_integration/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/deployment/safety/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/deployment/safety/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/safety/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/deployment/sim_to_real/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/deployment/sim_to_real/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/sim_to_real/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/deployment/web_hosting/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/deployment/web_hosting/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/web_hosting/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/learning/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/learning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/learning/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/learning/fundamentals/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/learning/fundamentals/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/learning/fundamentals/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/learning/model_based/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/learning/model_based/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/learning/model_based/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/learning/policy_gradient/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/learning/policy_gradient/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/learning/policy_gradient/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/learning/robot_applications/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/learning/robot_applications/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/learning/robot_applications/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/learning/value_based/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/learning/value_based/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/learning/value_based/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/manipulation/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/manipulation/bin_picking/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/bin_picking/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/bin_picking/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/manipulation/control/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/control/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/control/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/manipulation/deep_perception/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/deep_perception/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/deep_perception/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/manipulation/hardware/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/hardware/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/hardware/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/manipulation/hybrid_control/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/hybrid_control/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/hybrid_control/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/manipulation/installation/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/installation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/installation/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/manipulation/introduction/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/introduction/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/manipulation/motion_planning/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/motion_planning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/motion_planning/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/manipulation/pick_place/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/pick_place/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/pick_place/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/manipulation/pose_estimation/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/pose_estimation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/pose_estimation/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/manipulation/rl_manipulation/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/rl_manipulation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/rl_manipulation/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/manipulation/task_planning/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/task_planning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/task_planning/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/perception/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/perception/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/perception/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/perception/sam/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/perception/sam/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/perception/sam/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/perception/training/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/perception/training/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/perception/training/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/perception/yolo/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/perception/yolo/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/perception/yolo/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/planning/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/planning/algorithms/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/algorithms/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/algorithms/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/planning/course_overview/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/course_overview/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/course_overview/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/planning/deliberative/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/deliberative/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/deliberative/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/planning/learning/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/learning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/learning/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/planning/planning_problem/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/planning_problem/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/planning_problem/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/planning/planning_with_learning/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/planning_with_learning/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/planning_with_learning/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/planning/reactive_acting/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/reactive_acting/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/reactive_acting/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/planning/temporal/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/temporal/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/temporal/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/dh_parameters/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/dh_parameters/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/dh_parameters/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/dynamics/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/dynamics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/dynamics/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/kinematics/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/kinematics/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/kinematics/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/transformations/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/transformations/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/transformations/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/ros/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/ros/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/ros/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/ros/perception_node/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/ros/perception_node/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/ros/perception_node/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/ros/ros_communication_demo/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/ros/ros_communication_demo/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/ros/ros_communication_demo/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/ros/setup_robot_env/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/ros/setup_robot_env/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/ros/setup_robot_env/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/simulation/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/simulation/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/simulation/drake_sim/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/simulation/drake_sim/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/drake_sim/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/simulation/gazebo/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/simulation/gazebo/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/gazebo/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/simulation/mujoco/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/simulation/mujoco/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/mujoco/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/simulation/piper_x/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/simulation/piper_x/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/piper_x/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/simulation/pybullet/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/simulation/pybullet/"/>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/pybullet/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/SECURITY/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/SECURITY/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/SECURITY/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/ai-policy/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/ai-policy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/ai-policy/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/privacy/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/privacy/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/privacy/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/Preliminary/Environment_setup/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/Preliminary/Environment_setup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/Preliminary/Environment_setup/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/Preliminary/Linux/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/Preliminary/Linux/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/Preliminary/Linux/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/Project/hajimi/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/Project/hajimi/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/Project/hajimi/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/deployment/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/architecture/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/deployment/architecture/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/hardware_integration/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/hardware_integration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/deployment/hardware_integration/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/safety/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/safety/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/deployment/safety/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/sim_to_real/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/sim_to_real/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/deployment/sim_to_real/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/web_hosting/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/deployment/web_hosting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/deployment/web_hosting/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/learning/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/learning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/learning/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/learning/fundamentals/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/learning/fundamentals/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/learning/fundamentals/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/learning/model_based/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/learning/model_based/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/learning/model_based/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/learning/policy_gradient/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/learning/policy_gradient/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/learning/policy_gradient/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/learning/robot_applications/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/learning/robot_applications/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/learning/robot_applications/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/learning/value_based/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/learning/value_based/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/learning/value_based/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/bin_picking/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/bin_picking/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/bin_picking/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/control/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/control/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/control/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/deep_perception/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/deep_perception/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/deep_perception/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/hardware/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/hardware/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/hardware/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/hybrid_control/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/hybrid_control/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/hybrid_control/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/installation/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/installation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/installation/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/introduction/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/introduction/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/introduction/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/motion_planning/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/motion_planning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/motion_planning/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/pick_place/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/pick_place/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/pick_place/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/pose_estimation/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/pose_estimation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/pose_estimation/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/rl_manipulation/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/rl_manipulation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/rl_manipulation/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/task_planning/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/manipulation/task_planning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/manipulation/task_planning/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/perception/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/perception/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/perception/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/perception/sam/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/perception/sam/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/perception/sam/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/perception/training/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/perception/training/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/perception/training/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/perception/yolo/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/perception/yolo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/perception/yolo/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/planning/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/planning/algorithms/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/algorithms/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/algorithms/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/planning/course_overview/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/course_overview/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/course_overview/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/planning/deliberative/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/deliberative/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/deliberative/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/planning/learning/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/learning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/learning/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/planning/planning_problem/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/planning_problem/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/planning_problem/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/planning/planning_with_learning/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/planning_with_learning/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/planning_with_learning/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/planning/reactive_acting/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/reactive_acting/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/reactive_acting/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/planning/temporal/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/planning/temporal/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/planning/temporal/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/dh_parameters/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/dh_parameters/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/dh_parameters/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/dynamics/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/dynamics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/dynamics/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/kinematics/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/kinematics/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/kinematics/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/transformations/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/robotics_basics/transformations/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/robotics_basics/transformations/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/ros/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/ros/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/ros/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/ros/perception_node/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/ros/perception_node/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/ros/perception_node/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/ros/ros_communication_demo/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/ros/ros_communication_demo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/ros/ros_communication_demo/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/ros/setup_robot_env/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/ros/setup_robot_env/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/ros/setup_robot_env/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/simulation/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/drake_sim/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/drake_sim/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/simulation/drake_sim/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/gazebo/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/gazebo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/simulation/gazebo/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/mujoco/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/mujoco/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/simulation/mujoco/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/piper_x/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/piper_x/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/simulation/piper_x/"/>
+    </url>
+    <url>
+        <loc>https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/pybullet/</loc>
+        <lastmod>2026-04-26</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="zh" href="https://Fz2hOpenSource.github.io/robotics-course/zh/simulation/pybullet/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://Fz2hOpenSource.github.io/robotics-course/simulation/pybullet/"/>
+    </url>
+</urlset>
