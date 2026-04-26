@@ -71,11 +71,11 @@ flowchart TB
   PAR --> PLAN0
   PAR --> LEARN0
 
-  subgraph COLS[Core Modules / Parallel]
+  subgraph COLS["Core Modules / Parallel"]
     direction LR
 
     %% ===== ROS =====
-    subgraph ROS[ROS Module]
+    subgraph ROS["ROS Module"]
       direction TB
       ROS0[ROS Index] --> ROS1[Installation]
       ROS1 --> ROS2[Robot Environment Setup]
@@ -85,7 +85,7 @@ flowchart TB
     end
 
     %% ===== Perception =====
-    subgraph PER[Perception]
+    subgraph PER["Perception"]
       direction TB
       PER0[Perception Index] --> PER1[YOLO Object Detection]
       PER1 --> PER2[Training Pipeline]
@@ -93,7 +93,7 @@ flowchart TB
     end
 
     %% ===== Simulation =====
-    subgraph SIM[Simulation]
+    subgraph SIM["Simulation"]
       direction TB
       SIM0[Simulation Index] --> SIM1[Gazebo ROS-native]
       SIM1 --> SIM2[Drake Advanced]
@@ -103,7 +103,7 @@ flowchart TB
     end
 
     %% ===== Planning =====
-    subgraph PLAN[Planning]
+    subgraph PLAN["Planning"]
       direction TB
       PLAN0[Planning Index] --> PLAN1[Planning Problem]
       PLAN1 --> PLAN2[Deliberative]
@@ -114,7 +114,7 @@ flowchart TB
     end
 
     %% ===== Learning =====
-    subgraph LEARN[Learning]
+    subgraph LEARN["Learning"]
       direction TB
       LEARN0[Learning Index] --> LEARN1[Fundamentals]
       LEARN1 --> LEARN2[Value-Based]
@@ -132,7 +132,7 @@ flowchart TB
   PLAN_END -.->|Input| MANI0
 
   %% ---------- Manipulation Summary ----------
-  subgraph MANI[Manipulation (MIT 6.8210)]
+  subgraph MANI["Manipulation (MIT 6.8210)"]
     direction TB
     MANI0[Manipulation Index] --> MANI1[Pick & Place]
     MANI1 --> MANI2[Pose Estimation]

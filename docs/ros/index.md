@@ -32,8 +32,8 @@ You only need to remember two things:
 
 ## Core Concepts
 
-- [**Setup Robot Environment**](setup_robot_env.zh.md): Configure the robot environment, including installing ROS Noetic + Gazebo / creating a ROS workspace.
-- [**ROS Communication**](ros_communication_demo.zh.md): Executable files that perform computations.
+- [**Setup Robot Environment**](setup_robot_env.md): Configure the robot environment, including installing ROS Noetic + Gazebo / creating a ROS workspace.
+- [**ROS Communication**](ros_communication_demo.md): Executable files that perform computations.
 
 
 

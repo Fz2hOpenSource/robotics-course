@@ -74,11 +74,11 @@ flowchart TB
   PAR --> PLAN0
   PAR --> LEARN0
 
-  subgraph COLS[Core Modules / 核心模块（并行）]
+  subgraph COLS["Core Modules / 核心模块（并行）"]
     direction LR
 
     %% ===== ROS =====
-    subgraph ROS[ROS 模块]
+    subgraph ROS["ROS 模块"]
       direction TB
       ROS0[ROS / Index] --> ROS1[Installation<br/>安装]
       ROS1 --> ROS2[Setup Robot Env<br/>机器人环境配置]
@@ -88,7 +88,7 @@ flowchart TB
     end
 
     %% ===== Perception =====
-    subgraph PER[Perception 感知]
+    subgraph PER["Perception 感知"]
       direction TB
       PER0[Perception / Index] --> PER1[YOLO<br/>目标检测]
       PER1 --> PER2[Training<br/>训练流程]
@@ -96,7 +96,7 @@ flowchart TB
     end
 
     %% ===== Simulation =====
-    subgraph SIM[Simulation 仿真]
+    subgraph SIM["Simulation 仿真"]
       direction TB
       SIM0[Simulation / Index] --> SIM1[Gazebo<br/>ROS原生仿真]
       SIM1 --> SIM2[Drake<br/>高级操控仿真]
@@ -106,7 +106,7 @@ flowchart TB
     end
 
     %% ===== Planning =====
-    subgraph PLAN[Planning 规划]
+    subgraph PLAN["Planning 规划"]
       direction TB
       PLAN0[Planning / Index] --> PLAN1[Planning Problem<br/>规划问题]
       PLAN1 --> PLAN2[Deliberative<br/>思考式规划]
@@ -117,7 +117,7 @@ flowchart TB
     end
 
     %% ===== Learning =====
-    subgraph LEARN[Learning 学习]
+    subgraph LEARN["Learning 学习"]
       direction TB
       LEARN0[Learning / Index] --> LEARN1[Fundamentals<br/>强化学习基础]
       LEARN1 --> LEARN2[Value-Based<br/>价值函数方法]
@@ -135,7 +135,7 @@ flowchart TB
   PLAN_END -.->|输入| MANI0
 
   %% ---------- Manipulation 汇总 ----------
-  subgraph MANI[Manipulation 操控 (MIT 6.8210)]
+  subgraph MANI["Manipulation 操控 (MIT 6.8210)"]
     direction TB
     MANI0[Manipulation / Index] --> MANI1[Pick & Place<br/>抓取放置]
     MANI1 --> MANI2[Pose Estimation<br/>位姿估计]

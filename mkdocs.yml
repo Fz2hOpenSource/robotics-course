@@ -50,7 +50,7 @@ theme:
 plugins:
   - search
   - kroki:
-      FencePrefix: ''
+      fence_prefix: ''
   - i18n:
       docs_structure: suffix
       languages:
@@ -72,10 +72,10 @@ extra:
       link: https://github.com/Fz2hOpenSource
   alternate:
     - name: 简体中文
-      link: ./zh/
+      link: /zh/
       lang: zh
     - name: English
-      link: ./
+      link: /
       lang: en
   # MathJax Configuration
   mathjax:
@@ -125,7 +125,11 @@ markdown_extensions:
   - pymdownx.magiclink
   - pymdownx.mark
   - pymdownx.smartsymbols
-  - pymdownx.superfences
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.tasklist:
@@ -134,6 +138,8 @@ markdown_extensions:
 
 extra_javascript:
   - javascripts/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.min.js
+  - javascripts/mermaid.js
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 
