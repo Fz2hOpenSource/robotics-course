@@ -5,3 +5,4 @@ __pycache__
 .vscode/
 .trae/.ignore
 /.minimax
+/robotics_course_venv
