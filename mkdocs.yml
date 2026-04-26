@@ -4,8 +4,8 @@ repo_url: https://github.com/Fz2hOpenSource/robotics-course
 repo_name: Fz2hOpenSource/robotics-course
 
 theme:
-  name: material  # 使用 Material 主题
-  language: en  # 设置界面语言为简体中文
+  name: material
+  language: en
   
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -24,28 +24,26 @@ theme:
         icon: material/weather-night
         name: Switch to light mode
 
-  features:  # 功能特性配置
-    - navigation.tabs  # 启用顶部导航标签页
-    - navigation.sections  # 启用侧边栏分组
-    - navigation.expand  # 默认展开所有导航项
-    - navigation.top  # 显示"返回顶部"按钮
-    - navigation.tracking  # 地址栏自动更新当前标题的锚点
-    - search.suggest  # 搜索建议
-    - search.highlight  # 搜索结果高亮
-    - content.code.copy  # 代码块添加复制按钮
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.tracking
+    - search.suggest
+    - search.highlight
+    - content.code.copy
   
-  font:  # 字体配置
-    text: Roboto  # 正文字体
-    code: Roboto Mono  # 代码字体（等宽）
+  font:
+    text: Roboto
+    code: Roboto Mono
   
-  # Logo 和图标配置
-  logo: image/LOGO.jpg  # 网站 Logo 路径
-  favicon: image/LOGO.jpg  # 浏览器标签页图标
+  logo: image/LOGO.jpg
+  favicon: image/LOGO.jpg
   icon:
-    repo: fontawesome/brands/github  # 仓库图标（显示 GitHub 图标）
+    repo: fontawesome/brands/github
 
 
-# Plugins
 plugins:
   - search
   - i18n:
@@ -60,7 +58,6 @@ plugins:
           build: true
 
 
-# Extra configuration (Language Switcher)
 extra:
   analytics:
     provider: google
@@ -77,7 +74,6 @@ extra:
       lang: en
 
 
-# Markdown Extensions
 markdown_extensions:
   - admonition
   - abbr
@@ -117,12 +113,61 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
-# Navigation (Example Structure - will be auto-generated or manually specified)
+
 nav:
   - Home: index.md
   - Preliminary:
-      - Python Environment: Preliminary/Environment_setup.md  
+      - Python Environment: Preliminary/Environment_setup.md
       - Linux: Preliminary/Linux.md
+  - Robotics Basics:
+      - Overview: robotics_basics/index.md
+      - Kinematics: robotics_basics/kinematics.md
+      - Dynamics: robotics_basics/dynamics.md
+      - Transformations: robotics_basics/transformations.md
+      - DH Parameters: robotics_basics/dh_parameters.md
+  - Manipulation (MIT):
+      - Overview: manipulation/index.md
+      - Introduction: manipulation/introduction.md
+      - Installation: manipulation/installation.md
+      - Hardware: manipulation/hardware.md
+      - Pick and Place: manipulation/pick_place.md
+      - Motion Planning: manipulation/motion_planning.md
+      - Control: manipulation/control.md
+      - Pose Estimation: manipulation/pose_estimation.md
+      - Bin Picking: manipulation/bin_picking.md
+      - Deep Perception: manipulation/deep_perception.md
+      - Task Planning: manipulation/task_planning.md
+      - Hybrid Control: manipulation/hybrid_control.md
+      - RL for Manipulation: manipulation/rl_manipulation.md
+  - Planning (LAAS):
+      - Course Overview: planning/course_overview.md
+      - Planning Problem: planning/planning_problem.md
+      - Algorithms: planning/algorithms.md
+      - Temporal Planning: planning/temporal.md
+      - Reactive Acting: planning/reactive_acting.md
+      - Deliberative Acting: planning/deliberative.md
+      - Learning: planning/learning.md
+      - Planning with Learning: planning/planning_with_learning.md
+  - Simulation:
+      - Overview: simulation/index.md
+      - Gazebo: simulation/gazebo.md
+      - Drake: simulation/drake_sim.md
+      - MuJoCo: simulation/mujoco.md
+      - PyBullet: simulation/pybullet.md
+      - Piper-X (AgileX): simulation/piper_x.md
+  - Reinforcement Learning:
+      - Overview: learning/index.md
+      - Fundamentals: learning/fundamentals.md
+      - Value-Based Methods: learning/value_based.md
+      - Policy Gradient: learning/policy_gradient.md
+      - Model-Based RL: learning/model_based.md
+      - Robot Applications: learning/robot_applications.md
+  - Deployment:
+      - Overview: deployment/index.md
+      - Sim-to-Real: deployment/sim_to_real.md
+      - Hardware Integration: deployment/hardware_integration.md
+      - Architecture: deployment/architecture.md
+      - Safety: deployment/safety.md
   - ROS:
       - Introduction: ros/index.md
       - Setup Robot Environment: ros/setup_robot_env.md
@@ -132,6 +177,3 @@ nav:
       - Overview: perception/index.md
       - YOLO: perception/yolo.md
       - Training: perception/training.md
-  # - Path Planning:
-  #     - Basics: planning/index.md
-  #     - Algorithms: planning/algorithms.md
