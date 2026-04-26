@@ -8,6 +8,7 @@
 - [硬件集成](hardware_integration.md) - 连接真实机器人
 - [系统架构](architecture.md) - 生产机器人系统
 - [安全考虑](safety.md) - 真实世界部署安全
+- [网站托管（Nginx）](web_hosting.md) - 在自己的服务器上部署本网站
 
 ## 关键挑战
 

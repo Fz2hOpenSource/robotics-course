@@ -193,6 +193,7 @@ nav:
       - Hardware Integration: deployment/hardware_integration.md
       - Architecture: deployment/architecture.md
       - Safety: deployment/safety.md
+      - Web Hosting (Nginx): deployment/web_hosting.md
   - ROS:
       - Introduction: ros/index.md
       - Setup Robot Environment: ros/setup_robot_env.md

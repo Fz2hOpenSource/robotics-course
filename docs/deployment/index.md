@@ -8,6 +8,7 @@ This module covers deploying robot systems from simulation to real hardware.
 - [Hardware Integration](hardware_integration.md) - Connecting to real robots
 - [System Architecture](architecture.md) - Production robot systems
 - [Safety Considerations](safety.md) - Safety in real-world deployment
+- [Web Hosting (Nginx)](web_hosting.md) - Serve this site on your own server
 
 ## Key Challenges
 
