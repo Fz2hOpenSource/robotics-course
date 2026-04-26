@@ -6,6 +6,7 @@ repo_name: Fz2hOpenSource/robotics-course
 theme:
   name: material
   language: en
+  custom_dir: docs/overrides
   
   palette:
     - media: "(prefers-color-scheme: light)"
@@ -33,6 +34,8 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+    - content.action.view
+    - content.action.edit
   
   font:
     text: Roboto
@@ -56,6 +59,8 @@ plugins:
         - locale: zh
           name: 简体中文
           build: true
+  - materialx:
+      inclusive: true
 
 
 extra:
@@ -64,7 +69,7 @@ extra:
     property: G-L8NRTF0T7G
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/yourname
+      link: https://github.com/Fz2hOpenSource
   alternate:
     - name: 简体中文
       link: ./zh/
@@ -72,6 +77,24 @@ extra:
     - name: English
       link: ./
       lang: en
+  # MathJax Configuration
+  mathjax:
+    version: 3.2.2
+    annotator: false
+    config:
+      tex:
+        inlineMath:
+          - ['$', '$']
+          - ['\\(', '\\)']
+        displayMath:
+          - ['$$', '$$']
+          - ['\\[', '\\]']
+        processEscapes: true
+        processEnvironments: true
+      options:
+        skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      startup:
+        ready: null
 
 
 markdown_extensions:
@@ -177,3 +200,6 @@ nav:
       - Overview: perception/index.md
       - YOLO: perception/yolo.md
       - Training: perception/training.md
+  - Project Info:
+      - AI Policy: ai-policy.md
+      - Privacy: privacy.md
